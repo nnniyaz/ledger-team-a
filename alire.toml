@@ -1,0 +1,12 @@
+name = "ledger"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Niyaz Nassyrov"]
+maintainers = ["Niyaz Nassyrov <nnass012@fiu.edu>"]
+maintainers-logins = ["nnniyaz"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["ledger"]
